@@ -3,7 +3,8 @@ Los ejemplos terminados se verán similar a [este](https://github.com/MathWorks-
 
 Añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathworks.com/products/matlab-online/git.html).
 
-[![Abrir en MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Taller-para-Educadores-de-MATLAB)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=afcastro-espe/MATLAB-Educator-Workshop)
+
 <!-- Agrega el icono de "File Exchange" al README si este repositorio también aparece en File Exchange mediante la función "Connect to GitHub" -->
 <!-- Agrega el icono de "Abrir en MATLAB Online" al README para abrir un archivo específico en MATLAB Online -->
 
